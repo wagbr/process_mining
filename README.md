@@ -1,5 +1,3 @@
-# Process mining algorithms
-
 # Process Mining discovery algorithms
 
 In this repo, I will store some own algorithms for process mining
