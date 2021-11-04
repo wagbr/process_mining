@@ -16,10 +16,8 @@ require(plyr)
 require(bupaR)
 
 log <- patients
-```
 
-``` {r}
-graph <- alpha_miner(log) 
-graph
+alpha_miner(log) 
 ```
+![](man/Figures/graph.png)
 
